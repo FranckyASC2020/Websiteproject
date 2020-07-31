@@ -1,0 +1,27 @@
+.top{
+    background-color:rgb(53,53,53);
+}
+body{
+    color:whitesmoke;
+}
+header{
+    font-size:72px;
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
+h3{
+    font-size:26px;
+    margin-top:0px;
+    margin-bottom:0px;
+    
+}
+
+img{
+    width:200px;
+    height:200px;
+    margin:10px;
+
+}
